@@ -4,7 +4,7 @@
 
 ## ✅ 実行環境
 
-1. Ubuntu 22.04 以降
+1. OS：WSL2 + Ubuntu 22.04.3 LTS
 2. Python 3.12.4
 3. 必要ライブラリ（requirements.txtに記載）
 
